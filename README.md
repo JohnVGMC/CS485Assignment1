@@ -1,2 +1,2 @@
 # CS485Assignment1
-Assignment 1 for CS 485 (Roll-a-Ball &amp; Custom Game)
+Unity Assets for the Roll-A-Ball Tutorial Game and Custom Game (based off the 2D UFO Tutorial Game)
