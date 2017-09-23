@@ -1,7 +1,7 @@
 # CS485Assignment1
-####John Calderon
-####CS 485
-####Xin Ye
+#### John Calderon
+#### CS 485
+#### Xin Ye
 
 Unity Assets for the Roll-A-Ball Tutorial Game and Custom Game (based off the 2D UFO Tutorial Game)
 
