@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - OutOfBounds
+  - SpeedBoosterDown
+  - PickUp
+  - SpeedBoosterRight
+  - SpeedBoosterUp
+  - SpeedBoosterLeft
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1778013419
+    locked: 0
+  - name: Pickups
+    uniqueID: 3017261359
+    locked: 0
+  - name: Player
+    uniqueID: 2839589731
+    locked: 0
