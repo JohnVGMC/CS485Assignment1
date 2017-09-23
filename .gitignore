@@ -30,3 +30,5 @@ sysinfo.txt
 
 # CUSTOM: Project Report is in PDF. the .docx is the source for the report and will not be included.
 *.docx
+
+/[Bb]uilds/mainGame-Final_Data/output_log.txt
