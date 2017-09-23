@@ -28,5 +28,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# CUSTOM: Project Report is in PDF. the .docx is the source for the report.
+# CUSTOM: Project Report is in PDF. the .docx is the source for the report and will not be included.
 *.docx
